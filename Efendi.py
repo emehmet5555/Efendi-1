@@ -1,9 +1,12 @@
 """
 EFENDİ
 
-ALNS
+A 
+l
+n 
+s
 
-Electrical HHC with fast charge techs
+EHHC with fst chrg techs
 
 
 """
